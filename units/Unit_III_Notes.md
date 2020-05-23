@@ -221,7 +221,11 @@ Available conditional statements in python are
 
 				if (test expression/condition):
 					statement(s)
-		
+
+**Flow chart**
+
+![](https://github.com/KAMALATHANGARAJAN/pythonFDP/blob/master/img/if_flow_chart.png)
+
 **Example 3.3:**
 												
 Python program to check whether a person is eligible for vote.
@@ -250,6 +254,10 @@ Python program to check whether a person is eligible for vote.
 					statement(s)
 				else:
 					statement(s)
+					
+**Flow chart**
+
+![Alttxt](https://github.com/KAMALATHANGARAJAN/pythonFDP/blob/new-branch1/img/if_flow_chart.png)
  
 **Example 3.4:**
 
@@ -304,6 +312,11 @@ Python program to checks if the number is positive or negative
 					Body of elif
 				else:
 					Body of else
+					
+**Flow chart**
+
+![Alttxt](https://github.com/KAMALATHANGARAJAN/pythonFDP/blob/master/img/if_elif_else.png)
+
  
  **Example 3.6:**
  
@@ -398,6 +411,10 @@ objects.
 				for val in sequence:
 					Body of for
 
+**Flow chart**
+
+![Alttxt](https://github.com/KAMALATHANGARAJAN/pythonFDP/blob/master/img/for_flow_chart.png)
+
 **Example 3.9:**
 
 Python Program to find the sum of all numbers stored in a list
@@ -428,6 +445,10 @@ Python Program to find the sum of all numbers stored in a list
 
 				while test_expression:
 					Body of while
+					
+**Flow chart**
+
+![Alttxt](https://github.com/KAMALATHANGARAJAN/pythonFDP/blob/master/img/while_loop_flow_chart.png)
 
 **Example 3.10:**
 
@@ -509,6 +530,10 @@ iii. Pass
 **Syntax of break**
 
 				break
+		
+**Flow chart**
+
+![Alttxt](https://github.com/KAMALATHANGARAJAN/pythonFDP/blob/master/img/while_loop_break__flow_chart.png)
 
 **Example 3.12:**
 
@@ -561,6 +586,10 @@ Python program to demonstrate break
 **Syntax of Continue**
 
 				continue
+				
+**Flow chart**
+
+![Alttxt](https://github.com/KAMALATHANGARAJAN/pythonFDP/blob/master/img/continue_flowchart.PNG)
 				
 **Example 3.14:**
 
